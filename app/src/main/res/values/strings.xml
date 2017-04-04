@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Air App</string>
+    <string name="edit_message">Enter a Acknowledge message</string>
+    <string name="ip_field">Enter destination IP</string>
+    <string name="button_send">Send</string>
+    <string name="toggle_turn_on">Notification On</string>
+    <string name="toggle_turn_off">Notification Off</string>
+    <string name="btn_display">Display Graph</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
